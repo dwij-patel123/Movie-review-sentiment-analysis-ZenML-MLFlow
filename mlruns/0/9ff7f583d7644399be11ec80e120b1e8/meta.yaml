@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dwijvijaykumarpatel/zenML_test/mlruns/0/9ff7f583d7644399be11ec80e120b1e8/artifacts
+end_time: 1709245288749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ff7f583d7644399be11ec80e120b1e8
+run_name: auspicious-boar-384
+run_uuid: 9ff7f583d7644399be11ec80e120b1e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709245287169
+status: 3
+tags: []
+user_id: dwijvijaykumarpatel

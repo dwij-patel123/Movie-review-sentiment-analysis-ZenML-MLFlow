@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dwijvijaykumarpatel/zenML_test/mlruns/0/ba9956319b15440ab5eb819c73cf738a/artifacts
+end_time: 1709354193715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba9956319b15440ab5eb819c73cf738a
+run_name: rare-snake-298
+run_uuid: ba9956319b15440ab5eb819c73cf738a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709354191894
+status: 3
+tags: []
+user_id: dwijvijaykumarpatel

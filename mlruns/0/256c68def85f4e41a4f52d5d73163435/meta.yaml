@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dwijvijaykumarpatel/zenML_test/mlruns/0/256c68def85f4e41a4f52d5d73163435/artifacts
+end_time: 1709353220492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 256c68def85f4e41a4f52d5d73163435
+run_name: burly-cub-985
+run_uuid: 256c68def85f4e41a4f52d5d73163435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709353218379
+status: 3
+tags: []
+user_id: dwijvijaykumarpatel

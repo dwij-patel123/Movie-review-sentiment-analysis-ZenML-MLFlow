@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dwijvijaykumarpatel/zenML_test/mlruns/0/5a14d2de814940f0bf5a84038326eb68/artifacts
+end_time: 1709239079190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a14d2de814940f0bf5a84038326eb68
+run_name: intrigued-stoat-717
+run_uuid: 5a14d2de814940f0bf5a84038326eb68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709239058276
+status: 3
+tags: []
+user_id: dwijvijaykumarpatel

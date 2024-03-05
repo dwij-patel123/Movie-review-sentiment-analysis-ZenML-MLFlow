@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dwijvijaykumarpatel/zenML_test/mlruns/0/17ee49c119bc4240967278e498ff79a6/artifacts
+end_time: 1709239085421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17ee49c119bc4240967278e498ff79a6
+run_name: gaudy-jay-530
+run_uuid: 17ee49c119bc4240967278e498ff79a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709239083757
+status: 3
+tags: []
+user_id: dwijvijaykumarpatel
